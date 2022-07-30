@@ -1,6 +1,6 @@
 ## Olá, sou Everton Carvalho!
 
-🐱‍👤Estou estudando Java e C#
+🐱‍👤Estou estudando C#
 
 <div align="horizontally">
   <a href="https://github.com/EvertonPRCarvalho/">
